@@ -44,6 +44,20 @@ Students can create an account, log in securely, browse courses, enroll, and vie
 - View Course News & Updates
 
 ---
+
+### Admin Module
+
+- Secure Admin Login
+- Dashboard
+- Add New Courses
+- Edit Existing Courses
+- View Student Enrollment History
+- Manage Course News
+- View Student Feedback
+- Logout
+
+---
+
 ## Screenshots / Application Preview
 
 <table>
@@ -88,19 +102,6 @@ Students can create an account, log in securely, browse courses, enroll, and vie
     <td align="center">Course Page - Admin</td>
   </tr>
 </table>
-
----
-
-### Admin Module
-
-- Secure Admin Login
-- Dashboard
-- Add New Courses
-- Edit Existing Courses
-- View Student Enrollment History
-- Manage Course News
-- View Student Feedback
-- Logout
 
 ---
 
