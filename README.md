@@ -44,6 +44,52 @@ Students can create an account, log in securely, browse courses, enroll, and vie
 - View Course News & Updates
 
 ---
+## Screenshots / Application Preview
+
+<table>
+  <tr>
+    <td><img src="screenshots/Home_Page.png" width="100%"></td>
+    <td><img src="screenshots/User_Login_Page.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">Home Page</td>
+    <td align="center">Student Login</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/User_Register_Page.png" width="100%"></td>
+    <td><img src="screenshots/Course_Page_User.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">Student Register</td>
+    <td align="center">Course Page</td>
+  </tr>
+    <tr>
+    <td><img src="screenshots/Enroll-History_Page_User.png" width="100%"></td>
+    <td><img src="screenshots/My-profile_User.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">Course Enroll-History</td>
+    <td align="center">Student Profile</td>
+  </tr>
+    <tr>
+    <td><img src="screenshots/NewsDetails_Page_User.png" width="100%"></td>
+    <td><img src="screenshots/Admin_Login_Page.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">News-Details Page</td>
+    <td align="center">Admin Login</td>
+  </tr>
+    <tr>
+    <td><img src="screenshots/Admin_Dashboard_Page.png" width="100%"></td>
+    <td><img src="screenshots/Course_Page_Admin.png" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">Admin Dashboard</td>
+    <td align="center">Course Page - Admin</td>
+  </tr>
+</table>
+
+---
 
 ### Admin Module
 
